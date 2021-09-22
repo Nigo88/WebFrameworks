@@ -1,0 +1,25 @@
+.container {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+
+.button {
+    position:absolute;
+   margin-bottom:10px;
+   margin-top: 400px; 
+}
+
+.header {
+
+    position:absolute;
+    margin-bottom:10px;
+    margin-top:450px;
+}
+
+.luvut{
+    position:absolute;
+    margin-bottom:10px;
+    margin-top:480px;
+}
