@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Discraft ESP Buzzz",
+      "author": "Discraft",
+      "type": "Mid-Range",
+      "price": 17.90,
+      "rating": 5,
+      "image": "kiekko2.png",
+      "promos": [
+        "Paul Mcbeth 5x World Champion"
+        
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Discraft Roach",
+      "author": "Discraft",
+      "type": "Putter",
+      "price": 11.90,
+      "rating": 5,
+      "image": "kiekko3.png",
+      "promos": [
+        "New Putterline Roach"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Prodigy disc 500 spectrum PA-1",
+      "author": "SEPPO PAJU OTSO 2 ",
+      "type": "Putter/Approach",
+      "price": 29.90,
+      "rating": 5,
+      "image": "kiekko4.png",
+      "promos": [
+        "Seppo Paju Exclusive"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "MVP Disc Sports Proton Volt",
+      "author": "MVP dics",
+      "type": "Fairway-Driver",
+      "price": 16.90,
+      "rating": 5,
+      "image": "kiekko5.png",
+      "promos": [
+        
+      ]
+    },
+
+    {
+      "id": 5,
+      "name": "Nuke Ezra Aderhold",
+      "author": "Discraft",
+      "type": "Distance Driver",
+      "price": 29.99,
+      "rating": 5,
+      "image": "kiekko1.png",
+      "promos": [
+        "Ezra Aderhold special edition Nuke"
+        
+      
+      ]
+    },
+    {
+    "id": 7,
+      "name": "DYNAMIC DISCS Combat Commander Backpack",
+      "author": "Dynamic Discs",
+      "type": "Backpack",
+      "price": 139.00,
+      "rating": 5,
+      "image": "kiekkohomma6.png",
+      "promos": [
+        
+      ]
+    }  
+
+
+
+  ]
+}
